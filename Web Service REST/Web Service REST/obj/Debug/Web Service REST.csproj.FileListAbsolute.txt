@@ -1,0 +1,14 @@
+C:\Users\39347\Desktop\Web Service REST\Web Service REST\obj\Debug\Web Service REST.csproj.AssemblyReference.cache
+C:\Users\39347\Desktop\Web Service REST\Web Service REST\obj\Debug\Web Service REST.csproj.SuggestedBindingRedirects.cache
+C:\Users\39347\Desktop\Web Service REST\Web Service REST\obj\Debug\Web_Service_REST.Form1.resources
+C:\Users\39347\Desktop\Web Service REST\Web Service REST\obj\Debug\Web_Service_REST.Properties.Resources.resources
+C:\Users\39347\Desktop\Web Service REST\Web Service REST\obj\Debug\Web Service REST.csproj.GenerateResource.cache
+C:\Users\39347\Desktop\Web Service REST\Web Service REST\obj\Debug\Web Service REST.csproj.CoreCompileInputs.cache
+C:\Users\39347\Desktop\Web Service REST\Web Service REST\bin\Debug\Web Service REST.exe.config
+C:\Users\39347\Desktop\Web Service REST\Web Service REST\bin\Debug\Web Service REST.exe
+C:\Users\39347\Desktop\Web Service REST\Web Service REST\bin\Debug\Web Service REST.pdb
+C:\Users\39347\Desktop\Web Service REST\Web Service REST\obj\Debug\Web Service REST.exe
+C:\Users\39347\Desktop\Web Service REST\Web Service REST\obj\Debug\Web Service REST.pdb
+C:\Users\39347\Desktop\Web Service REST\Web Service REST\bin\Debug\Newtonsoft.Json.dll
+C:\Users\39347\Desktop\Web Service REST\Web Service REST\bin\Debug\Newtonsoft.Json.xml
+C:\Users\39347\Desktop\Web Service REST\Web Service REST\obj\Debug\Web Service REST.csproj.CopyComplete

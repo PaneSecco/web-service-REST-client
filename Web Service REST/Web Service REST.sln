@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web Service REST", "Web Service REST\Web Service REST.csproj", "{61AF6ED9-8E7B-44E4-AB94-81AB3ADB712A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61AF6ED9-8E7B-44E4-AB94-81AB3ADB712A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61AF6ED9-8E7B-44E4-AB94-81AB3ADB712A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61AF6ED9-8E7B-44E4-AB94-81AB3ADB712A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61AF6ED9-8E7B-44E4-AB94-81AB3ADB712A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E90C69FA-57A2-4320-AAA1-08D984B66A5B}
+	EndGlobalSection
+EndGlobal
